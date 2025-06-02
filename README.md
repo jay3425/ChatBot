@@ -75,7 +75,7 @@ python Chatbot.py
 
 ## 📸 UI Preview
 
-> *Insert screenshot of the GUI here if available*
+> ![]()
 
 ---
 
@@ -87,13 +87,16 @@ python Chatbot.py
 
 ---
 
-## 📃 License
+## Author - Jay dengle
 
-This project is licensed under the [MIT License](LICENSE).
+This project is part of my portfolio, showcasing my Python development and chatbot integration skills using APIs and UI frameworks. It's designed to simulate real-world AI interaction, highlighting my abilities in GUI design, API usage, and conversational logic—skills essential for software development and AI-focused roles.  
+If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-```
 
----
+### Stay Updated and Join me
 
-Let me know if you’d like me to [generate this as a downloadable file](f) or [add UI screenshots or a "Contributing" section](f).
-```
+- **GMail**: [jaydengle2005@gmail.com](mailto:jaydengle2005@gmail.com)
+- **Instagram**: [Follow me]()
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/jay-anil-dengle-049952337/)
+
+Thank you, and I look forward to connecting with you!
