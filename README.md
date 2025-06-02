@@ -75,7 +75,7 @@ python Chatbot.py
 
 ## 📸 UI Preview
 
-> ![]()
+> ![](https://github.com/jay3425/ChatBot/blob/main/Screenshot%20(454).png)
 
 ---
 
