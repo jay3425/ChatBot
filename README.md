@@ -1,4 +1,4 @@
-
+> ![](https://github.com/jay3425/ChatBot/blob/main/be4fdc1a-75a0-4a99-af35-f0f976c42ce6.jpg)
 # 🤖 Jarvis - AI ChatBot with Python & Tkinter
 
 **Jarvis** is an AI-powered chatbot built using Python, integrating a graphical user interface (GUI) via Tkinter and powered by the Groq LLM API. Designed as part of a college project, this application provides a clean, interactive experience for users to engage in real-time conversations with a smart assistant.
